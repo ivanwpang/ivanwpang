@@ -2,7 +2,7 @@
 ## Name: Ivan Pang
 ## School: SDSU
 ## Major: Computer Engineering
-## Languages: C, C#, C++, Java, Python, MIPS Assembly, Veriog
+## Languages: C, C#, C++, Java, Python, MIPS Assembly, Verilog
 <!--
 **ivanwpang/ivanwpang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
