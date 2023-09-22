@@ -1,10 +1,7 @@
-### Hi there 👋
-## Name: Ivan Pang
-## School: SDSU
-## Major: Computer Engineering
-## Languages: C, C#, C++, Java, Python, MIPS Assembly, Verilog
-## Currently working on MERN stack website
-## Currently learning MERN stack 
+## Hi, I'm Ivan Pang 👋
+## I'm a Computer Engineering Student at SDSU.
+## I'm currently working on MERN stack website
+## I'm looking for any job opportunities. 
 ## How to reach me: email: ivanwpang@gmail.com
 ## Pronouns: He/Him
 <!--
