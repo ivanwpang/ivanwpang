@@ -3,8 +3,8 @@
 ## School: SDSU
 ## Major: Computer Engineering
 ## Languages: C, C#, C++, Java, Python, MIPS Assembly, Verilog
-## Currently working on HTML webpage
-## Currently learning HTML, Python, Verilog
+## Currently working on MERN stack website
+## Currently learning MERN stack 
 ## How to reach me: email: ivanwpang@gmail.com
 ## Pronouns: He/Him
 <!--
