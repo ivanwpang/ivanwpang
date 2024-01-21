@@ -1,5 +1,5 @@
 ## Hi, I'm Ivan Pang 👋
-## I'm a Computer Engineering Student at SDSU.
+## I'm a Computer Engineering Graduate at SDSU.
 ## I'm currently working on MERN stack website
 ## I'm looking for any job opportunities. 
 ## How to reach me: email: ivanwpang@gmail.com
